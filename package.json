@@ -1,0 +1,30 @@
+{
+    "name": "rest-revision-sugar",
+    "description": "rest-revision-sugar makes it easy to implement yummy REST APIs with revisioning",
+    "author": "Juho Vepsalainen <bebraw@gmail.com>",
+    "version": "0.1.0",
+
+    "dependencies": {
+        "rest-sugar": "== 0.2.3"
+    },
+
+    "main": "./lib/rest-revision-sugar.js",
+
+    "repository": {
+        "type": "git",
+        "url": "https://bebraw@github.com/bebraw/rest-revision-sugar.git"
+    },
+
+    "homepage": "https://github.com/bebraw/rest-revision-sugar",
+
+    "bugs": {
+        "url": "https://github.com/bebraw/rest-revision-sugar/issues"
+    },
+
+    "keywords": ["rest", "revision"],
+
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/bebraw/rest-revision-sugar/blob/master/LICENSE"
+    }]
+}
